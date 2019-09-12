@@ -2,7 +2,7 @@ Feature('navigateToAEVIDev');
 
 Scenario('navigate to the AEVI developer homepage', (I) => {
     I.amOnPage('https://developer.aevi.com/');
-    I.see('Let’s create a better merchant experience'); 
+    I.see('Let’s create an awesome merchant experience'); 
     // broken test on purpose - fix it!
 });
 
