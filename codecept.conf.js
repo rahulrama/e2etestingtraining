@@ -4,7 +4,8 @@ exports.config = {
   helpers: {
     WebDriver: {
       url: 'http://localhost',
-      browser: 'chrome'
+      browser: 'chrome',
+      windowSize: '1920x1080'
     }
   },
   plugins: {
