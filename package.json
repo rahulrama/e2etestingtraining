@@ -7,7 +7,7 @@
     "test": "codeceptjs run --steps"
   },
   "devDependencies": {
-    "codeceptjs": "^2.3.0",
+    "codeceptjs": "^3.0.0",
     "webdriverio": "^5.12.4",
     "@wdio/selenium-standalone-service": "^5.12.1"    
   }
